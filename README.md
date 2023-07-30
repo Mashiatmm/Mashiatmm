@@ -3,6 +3,9 @@ SOurce : https://www.sitepoint.com/github-profile-readme/#:~:text=Adding%20GitHu
 -->
 <div id="header" align="center">
   <div id="badges">
+    <a href="https://mashiatportfolio.netlify.app/">
+      <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=web&logoColor=white" alt="Web Badge"/>
+    </a>
     <a href="https://www.linkedin.com/in/mashiat-mustaq-58691415b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -11,12 +14,33 @@ SOurce : https://www.sitepoint.com/github-profile-readme/#:~:text=Adding%20GitHu
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Mashiatmm&style=flat-square&color=blue" alt=""/>
-
+<!---
   <h3>
     Hello!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h3>
+ --> 
 </div>
+
+---
+
+### :woman_technologist: About Me :
+
+Hello there! 👋 I'm Mashiat, an Adjunct Lecturer at Bangladesh University of Engineering & Technology, currently teaching at the CSE Department there. I completed my undergraduate studies at the same institution.
+
+
+- :telescope: My research interests primarily lie in the field of Computer Graphics and I am actively seeking research opportunities in the same field. 
+
+- :seedling: Apart from my academics, I love working for the underprivileged community and am voluntarily co-leading the <a href='https://www.agami.org/library-project'>Library Project</a> of Agami Education Foundation. I love traveling to mountains and dancing too.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mashiat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mashiat-mustaq-58691415b/) 
+
+
+
+If you share similar interests or would like to to connect, don't hesitate to reach out. Let's learn and grow together!
+
+Happy coding! 😊
+
 
 ---
 
