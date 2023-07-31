@@ -2,6 +2,7 @@
 SOurce : https://www.sitepoint.com/github-profile-readme/#:~:text=Adding%20GitHub%20Stats,-Here's%20an%20image&text=For%20heading%2C%20add%20the%20following,stats%20for%20the%20GitHub%20profile.
 -->
 <div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGswcnd3MjNub3hyczlkNjhnaDgxdG91bnQ3YzM4NDR6dmtvMWNqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
   <div id="badges">
     <a href="https://mashiatportfolio.netlify.app/">
       <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=web&logoColor=white" alt="Web Badge"/>
@@ -14,6 +15,7 @@ SOurce : https://www.sitepoint.com/github-profile-readme/#:~:text=Adding%20GitHu
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Mashiatmm&style=flat-square&color=blue" alt=""/>
+  
 <!---
   <h3>
     Hello!
@@ -26,7 +28,7 @@ SOurce : https://www.sitepoint.com/github-profile-readme/#:~:text=Adding%20GitHu
 
 ### :woman_technologist: About Me :
 
-Hello there! 👋 I'm Mashiat, an Adjunct Lecturer at Bangladesh University of Engineering & Technology, currently teaching at the CSE Department there. I completed my undergraduate studies at the same institution.
+Hello there! 👋 I'm Mashiat, an Adjunct Lecturer at the Department of Computer Science and Engineering at <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. I completed my undergraduate studies at the same institution.
 
 
 - :telescope: My research interests primarily lie in the field of Computer Graphics and I am actively seeking research opportunities in the same field. 
