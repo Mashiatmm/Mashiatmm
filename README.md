@@ -28,7 +28,7 @@ SOurce : https://www.sitepoint.com/github-profile-readme/#:~:text=Adding%20GitHu
 
 ### :woman_technologist: About Me :
 
-Hello there! 👋 I'm Mashiat, an Adjunct Lecturer at the Department of Computer Science and Engineering at <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. I completed my undergraduate studies at the same institution.
+Hello there! 👋 I'm Mashiat, a Lecturer at the Department of Computer Science and Engineering at <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. I completed my undergraduate studies at the same institution.
 
 
 - :telescope: My research interests primarily lie in the field of Computer Graphics and I am actively seeking research opportunities in the same field. 
