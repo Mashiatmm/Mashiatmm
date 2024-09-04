@@ -28,10 +28,10 @@ SOurce : https://www.sitepoint.com/github-profile-readme/#:~:text=Adding%20GitHu
 
 ### :woman_technologist: About Me :
 
-Hello there! 👋 I'm Mashiat, a Lecturer at the Department of Computer Science and Engineering at <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. I completed my undergraduate studies at the same institution.
+Hello there! 👋 I'm Mashiat, a Ph.D. student in the department of Computer Science, Purdue University. I was previously a lecturer at the Department of Computer Science and Engineering at <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. I completed my undergraduate studies at the same institution.
 
 
-- :telescope: My research interests primarily lie in the intersection of Computer Graphics & HCI and I am actively seeking research opportunities in these field. 
+- :telescope: My research interests primarily lie in the intersection of Computer Graphics & Visualization and I am pursuing my PhD in the same field.
 
 - :seedling: Apart from my academics, I love working for the underprivileged community and am voluntarily co-leading the <a href='https://www.agami.org/library-project'>Library Project</a> of Agami Education Foundation. I love traveling to mountains and dancing too.
 
